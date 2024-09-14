@@ -6,5 +6,5 @@
 |-------------------------------|-----------------------------------------------------------------------------------------------|
 | Day 1 - VPC / Networking              | [Link do Github](https://github.com/lucianothesilva/linuxtips-aws-containers-vpc)                 |
 | Day 2 - ECS + EC2              | [Link do Github](https://github.com/lucianothesilva/linuxtips-aws-containers-ecs-cluster)                 |
-| Day 3 - ECS + Fargate            | [Link do Github](https://www.youtube.com/watch?v=xvFZjo5PgG0)                 |
+| Day 3 - ECS Module + App            | [Link do Module](https://github.com/lucianothesilva/linuxtips-aws-containers-ecs-service-module)  &  [Link Do App](https://github.com/lucianothesilva/linuxtips-aws-containers-ecs-app)                 |
 
