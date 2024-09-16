@@ -1,5 +1,7 @@
 # Repositório Central de Materiais do Curso de Arquitetura de Containers na AWS da LinuxTips
 
+Até o momento criada VPC para o cluster, o cluster em si, e uma aplicação que tem suas configurações definidas por um modulo de service.
+
 ## Repositórios das Aulas 
 
 | Recurso / Aula                | Repositório                                                                                   |
